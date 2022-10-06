@@ -1,0 +1,53 @@
+a {
+    text-decoration: none;
+    color: #666;
+}
+
+a:hover {
+    color: rgb(54, 112, 236);
+}
+
+* {
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.2;
+    font-family: 思源黑体, sans-serif;
+}
+
+h1 {
+    margin: 16px auto;
+    color: rgb(27, 94, 238);
+}
+
+h3 {
+    margin: 16px auto;
+}
+
+p {
+    margin: 8px auto;
+}
+
+body {
+    margin: 24px 24px;
+}
+
+ul,
+ol,
+dl {
+    list-style: none;
+}
+
+li,
+dt,
+dd,
+dt {
+    display: block;
+    margin: 8px 1em;
+}
+
+dt {
+    font-weight: 700;
+}
