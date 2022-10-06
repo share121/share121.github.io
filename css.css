@@ -31,7 +31,7 @@ p {
 }
 
 body {
-    margin: 24px 24px;
+    margin: 32px 24px;
 }
 
 ul,
@@ -50,4 +50,9 @@ dt {
 
 dt {
     font-weight: 700;
+}
+
+.scroll {
+    height: calc(100vh - 64px);
+    overflow: auto;
 }
