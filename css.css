@@ -7,11 +7,13 @@ a {
     border: solid 1px #666;
     border-radius: 8px 8px 8px 8px;
     color: #666;
+    background-color: #fff;
 }
 
 a:hover {
-    color: rgb(54, 112, 236);
+    color: #fff;
     border-color: rgb(54, 112, 236);
+    background-color: rgb(54, 112, 236);
 }
 
 * {
