@@ -19,8 +19,8 @@ a:hover {
 * {
     overflow: hidden;
     box-sizing: border-box;
-    padding: 0;
     margin: 0 auto;
+    padding: 0;
     text-align: center;
     line-height: 1.2;
     font-family: 思源黑体, sans-serif;
