@@ -8,6 +8,7 @@ a {
     border-radius: 8px 8px 8px 8px;
     color: #666;
     background-color: #fff;
+    -webkit-tap-highlight-color: transparent;
 }
 
 a:hover {
