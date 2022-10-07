@@ -1,10 +1,17 @@
 a {
     text-decoration: none;
+    display: block;
+    width: 75%;
+    height: 100%;
+    padding: 8px 8px;
+    border: solid 1px #666;
+    border-radius: 8px 8px 8px 8px;
     color: #666;
 }
 
 a:hover {
     color: rgb(54, 112, 236);
+    border-color: rgb(54, 112, 236);
 }
 
 * {
@@ -41,7 +48,6 @@ dl {
 }
 
 li,
-dt,
 dd,
 dt {
     display: block;
