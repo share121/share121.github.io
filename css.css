@@ -25,7 +25,7 @@ a:hover {
     text-align: center;
     line-height: 1.2;
     font-family: 思源黑体, sans-serif;
-    moz-user-select: -moz-none !important;
+    -moz-user-select: -moz-none !important;
     -moz-user-select: none !important;
     -o-user-select: none !important;
     -khtml-user-select: none !important;
