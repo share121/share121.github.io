@@ -73,3 +73,7 @@ dt {
     height: calc(100vh - 64px);
     overflow: auto;
 }
+
+li>a {
+    max-width: 20em;
+}
