@@ -35,8 +35,10 @@ a:active {
     -webkit-user-select: none !important;
     -ms-user-select: none !important;
     user-select: none !important;
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
+    transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -o-transition: all 0.2s ease 0s;
 }
 
 h1 {
