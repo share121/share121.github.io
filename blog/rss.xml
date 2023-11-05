@@ -4,10 +4,19 @@
         <title>Any Doc Blog</title>
         <link>https://share121.github.io/blog</link>
         <description>Any Doc Blog</description>
-        <lastBuildDate>Tue, 24 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[祝袁婉瑜生日快乐]]></title>
+            <link>https://share121.github.io/blog/2023/11/5/祝袁婉瑜生日快乐</link>
+            <guid>https://share121.github.io/blog/2023/11/5/祝袁婉瑜生日快乐</guid>
+            <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[亲爱的袁婉瑜：]]></description>
+            <content:encoded><![CDATA[<p>亲爱的袁婉瑜：</p><p>你好！在这个特别的日子里，我作为你的小学同学谢文集，衷心地祝愿你生日快乐！愿你的生活如同阳光一般明媚，如同彩虹一般绚丽多彩！学业步步高升，家庭和睦欢乐。愿你的每一个梦想都能实现，每一个愿望都能达成。</p><p>最后，再次祝你生日快乐！愿你永远幸福快乐！</p><p>此致<br>
+<!-- -->敬礼！</p><div style="text-align:end"><p>你的小学同学：谢文集</p></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[时政点评]]></title>
             <link>https://share121.github.io/blog/2023/10/24/时政点评</link>
