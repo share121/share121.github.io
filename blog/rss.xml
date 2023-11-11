@@ -4,23 +4,10 @@
         <title>Any Doc Blog</title>
         <link>https://share121.github.io/blog</link>
         <description>Any Doc Blog</description>
-        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
-        <item>
-            <title><![CDATA[祝袁婉瑜生日快乐]]></title>
-            <link>https://share121.github.io/blog/2023/11/5/yuanwanyu-birthday</link>
-            <guid>https://share121.github.io/blog/2023/11/5/yuanwanyu-birthday</guid>
-            <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[亲爱的袁婉瑜：]]></description>
-            <content:encoded><![CDATA[<p>亲爱的袁婉瑜：</p>
-<p>你好！在这个特别的日子里，我作为你的小学同学谢文集，衷心地祝愿你生日快乐！愿你的生活如同阳光一般明媚，如同彩虹一般绚丽多彩！学业步步高升，家庭和睦欢乐。愿你的每一个梦想都能实现，每一个愿望都能达成。</p>
-<p>最后，再次祝你生日快乐！愿你永远幸福快乐！</p>
-<p>此致<br>
-<!-- -->敬礼！</p>
-<div style="text-align:end"><p>你的小学同学：谢文集</p></div>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[时政点评]]></title>
             <link>https://share121.github.io/blog/2023/10/24/时政点评</link>
@@ -123,6 +110,28 @@
 </blockquote>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[入团申请书]]></title>
+            <link>https://share121.github.io/blog/2023/8/1/入团申请书</link>
+            <guid>https://share121.github.io/blog/2023/8/1/入团申请书</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[尊敬的团组织：]]></description>
+            <content:encoded><![CDATA[<p>尊敬的团组织：</p>
+<p>我志愿加入中国共产主义青年团！</p>
+<p>我是一名热爱中国共产主义青年团的热心青年，我深知共青团是中国共产党领导的先进青年组织，是广大青年学习、实践、成长的大学校。因此，我怀着无比崇敬的心情，向团委申请加入中国共产主义青年团。</p>
+<p>我对共青团的认识始于小学时期，那时我加入了少先队，感受到了少先队员的使命与荣耀。随着年龄的增长，我对共青团的认识更加深刻。我了解到共青团是党的助手和后备军，是中国青年的先锋队，是建设社会主义的生力军。我向往加入这样的组织，因为我可以更好地为党和人民服务，为实现中国梦贡献自己的力量。</p>
+<p>作为一名青年，我始终把爱国放在心中最高位置。我深知只有热爱祖国，才能有强烈的民族自豪感和责任感。我时刻关注国家大事，积极参与学校和社会组织的公益活动，努力为集体和社会做出贡献。我坚信，只有把自己的小我融入祖国的大我、人民的大我之中，才能更好地实现人生价值。</p>
+<p>在学习方面，我始终保持良好的学习态度和方法。我深知学习是获取知识和提高自己的重要途径，因此我努力克服困难，积极寻求进步。我在课堂上认真听讲，课下积极复习和预习，同时培养了自己的综合素质和实际能力。</p>
+<p>在工作方面，我曾担任班长，积极为班级和同学服务。我尽职尽责地完成各项任务，努力为班级创造良好的学习和生活环境。同时，我也积极参加社会实践活动和志愿服务活动，锻炼了自己的组织协调能力和团队协作精神。</p>
+<p>在创新方面，我开发了许多创新作品，如“<a href="https://share121.gitee.io/" target="_blank" rel="noopener noreferrer">Any Doc</a>”在线文档系统，我在上面写了 100 多篇笔记，并实现了 GitHub、Gitee、GitLab 的数据互通。还依照国家标准，实现了文档打印时的公文格式自动化处理。让我专注于笔记内容本身，而不是格式、排版、字体、字号、行距等繁琐而又重复的细节。还全面支持 LaTex 数学公式、流程图、时序图、甘特图、饼图、思维导图、音视频、代码片段、表格……的展示，甚至可以在文档上实现各种特效。如果你懒得做 PPT，或是需要更好的交互性，Any Doc 都可以满足你的需求。我还实现了评论系统，促进我与大家共同学习，共同进步。并且我还翻译了国外的技术文档，带领新手入门，为中国的编程领域尽一份力。</p>
+<p>当然，我也深知自己还存在许多不足和缺点。比如在学习方面有时缺乏耐心和细心，在工作方面有时缺乏经验和技能等。但我相信在团组织的关怀和帮助下，我一定能够克服这些困难，不断进步和完善自己。</p>
+<p>在此，我郑重向团委申请加入中国共产主义青年团，希望团组织能够给予我一个展示自己、锻炼自己的机会。我将以更加饱满的热情和更加坚定的信念，为团组织和人民做出更多的贡献。</p>
+<p>最后，请团委给予考察、监督和指导。我将认真履行团员的义务和责任，不断提高自己的素质和能力，为实现中国梦贡献自己的力量。谢谢！</p>
+<p>此致<br>
+<!-- -->敬礼！</p>
+<div style="text-align:end"><p>申请人：谢文集<br>
+<!-- -->2023 年 8 月 1 日</p></div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[党和国家维护社会公平的措施]]></title>
             <link>https://share121.github.io/blog/2023/7/25/党和国家维护社会公平的措施</link>
             <guid>https://share121.github.io/blog/2023/7/25/党和国家维护社会公平的措施</guid>
@@ -131,7 +140,7 @@
             <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="全国人大代表重庆市人民检察院检察长贺恒扬确保司法公正高效权威">全国人大代表、重庆市人民检察院检察长贺恒扬：确保司法公正高效权威<a href="https://share121.github.io/blog/2023/7/25/%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%BB%B4%E6%8A%A4%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3%E7%9A%84%E6%8E%AA%E6%96%BD#%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E9%87%8D%E5%BA%86%E5%B8%82%E4%BA%BA%E6%B0%91%E6%A3%80%E5%AF%9F%E9%99%A2%E6%A3%80%E5%AF%9F%E9%95%BF%E8%B4%BA%E6%81%92%E6%89%AC%E7%A1%AE%E4%BF%9D%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3%E9%AB%98%E6%95%88%E6%9D%83%E5%A8%81" class="hash-link" aria-label="全国人大代表、重庆市人民检察院检察长贺恒扬：确保司法公正高效权威的直接链接" title="全国人大代表、重庆市人民检察院检察长贺恒扬：确保司法公正高效权威的直接链接">​</a></h2>
 <p>公正司法事关人民切身利益，事关社会公平正义，事关全面依法治国。要顺应人民群众对公共安全、司法公正、权益保障的新期待，全力推进平安中国、法治中国建设，深化司法体制改革，坚持从严治警，坚决反对执法不公、司法腐败，进一步提高执法能力，进一步增强人民群众安全感和满意度，进一步提高政法工作亲和力和公信力，努力让人民群众在每一个司法案件中感受到公平正义。</p>
 <p>检察工作者要更加注重系统思维，把法治思维体现在办准办好每一个案件中，做到依法公正而不机械教条，注重法律效果的同时，突出强调政治效果、社会效果。要以“钉钉子”的精神，切实把每一个案件办准办好，确保司法公正高效权威。（记者刘新吾采访整理）</p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="全国人大代表辽宁省人大法制委员会副主任委员杨松立法必须体现人民利益">全国人大代表、辽宁省人大法制委员会副主任委员杨松：立法必须体现人民利益<a href="https://share121.github.io/blog/2023/7/25/%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%BB%B4%E6%8A%A4%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3%E7%9A%84%E6%8E%AA%E6%96%BD#%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%BA%E5%A4%A7%E6%B3%95%E5%88%B6%E5%A7%94%E5%91%98%E4%BC%9A%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%A7%94%E5%91%98%E6%9D%A8%E6%9D%BE%E7%AB%8B%E6%B3%95%E5%BF%85%E9%A1%BB%E4%BD%93%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%88%A9%E7%9B%8A" class="hash-link" aria-label="全国人大代表、辽宁省人大法制委员会副主任委员�杨松：立法必须体现人民利益的直接链接" title="全国人大代表、辽宁省人大法制委员会副主任委员杨松：立法必须体现人民利益的直接链接">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="全国人大代表辽宁省人大法制委员会副主任委员杨松立法必须体现人民利益">全国人大代表、辽宁省人大法制委员会副主任委员杨松：立法必须体现人民利益<a href="https://share121.github.io/blog/2023/7/25/%E5%85%9A%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%BB%B4%E6%8A%A4%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3%E7%9A%84%E6%8E%AA%E6%96%BD#%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%BA%E5%A4%A7%E6%B3%95%E5%88%B6%E5%A7%94%E5%91%98%E4%BC%9A%E5%89%AF%E4%B8%BB%E4%BB%BB%E5%A7%94%E5%91%98%E6%9D%A8%E6%9D%BE%E7%AB%8B%E6%B3%95%E5%BF%85%E9%A1%BB%E4%BD%93%E7%8E%B0%E4%BA%BA%E6%B0%91%E5%88%A9%E7%9B%8A" class="hash-link" aria-label="全国人大代表、辽宁省人大法制委员会副主任委员杨松：立��法必须体现人民利益的直接链接" title="全国人大代表、辽宁省人大法制委员会副主任委员杨松：立法必须体现人民利益的直接链接">​</a></h2>
 <p>立法工作必须体现人民利益、反映人民愿望、维护人民权益、增进人民福祉，根据实现国家治理体系和治理能力现代化的实际法律需求，加强重点领域、新兴领域、涉外领域立法。</p>
 <p>在国家发展的重点领域，要在现有法律制度基础上，结合实践的发展，统筹规划，同步推进顶层设计和制度完善。</p>
 <p>对一些新兴领域，要及时纳入立法规划，加强对国际发展趋势和风险研判，发挥我国在相关领域的优势，满足我们对相关领域规范的需求。</p>
@@ -160,7 +169,7 @@
             <guid>https://share121.github.io/blog/2023/7/25/时政点评</guid>
             <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[材料]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="材料">材料<a href="https://share121.github.io/blog/2023/7/25/%E6%97%B6%E6%94%BF%E7%82%B9%E8%AF%84#%E6%9D%90%E6%96%99" class="hash-link" aria-label="材料的直接链接" title="材料的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="�材料">材料<a href="https://share121.github.io/blog/2023/7/25/%E6%97%B6%E6%94%BF%E7%82%B9%E8%AF%84#%E6%9D%90%E6%96%99" class="hash-link" aria-label="材料的直接链接" title="材料的直接链接">​</a></h2>
 <blockquote>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="中国这十年中国式现代化建设取得新的历史性成就">中国这十年：中国式现代化建设取得新的历史性成就<a href="https://share121.github.io/blog/2023/7/25/%E6%97%B6%E6%94%BF%E7%82%B9%E8%AF%84#%E4%B8%AD%E5%9B%BD%E8%BF%99%E5%8D%81%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BB%BA%E8%AE%BE%E5%8F%96%E5%BE%97%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E6%88%90%E5%B0%B1" class="hash-link" aria-label="中国这十年：中国式现代化建设取得新的历史性成就的直接链接" title="中国这十年：中国式现代化建设取得新的历史性成就的直接链接">​</a></h3>
 <h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="民营企业数量翻了两番引资规模稳居发展中国家首位">民营企业数量翻了两番，引资规模稳居发展中国家首位<a href="https://share121.github.io/blog/2023/7/25/%E6%97%B6%E6%94%BF%E7%82%B9%E8%AF%84#%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A%E6%95%B0%E9%87%8F%E7%BF%BB%E4%BA%86%E4%B8%A4%E7%95%AA%E5%BC%95%E8%B5%84%E8%A7%84%E6%A8%A1%E7%A8%B3%E5%B1%85%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E9%A6%96%E4%BD%8D" class="hash-link" aria-label="民营企业数量翻了两番，引资规模稳居发展中国家首位的直接链接" title="民营企业数量翻了两番，引资规模稳居发展中国家首位的直接链接">​</a></h4>
