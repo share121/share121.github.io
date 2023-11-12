@@ -1,0 +1,76 @@
+{
+  "name": "any-doc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "ipy": "node ipynb2md.mjs",
+    "mtime": "node mtime.mjs",
+    "c-mtime": "node changeMtime.mjs",
+    "ttf2woff2": "node ttf2woff2.mjs",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc",
+    "update": "npm-check -u",
+    "depcheck": "depcheck"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.0.0",
+    "@docusaurus/plugin-ideal-image": "^3.0.0",
+    "@docusaurus/plugin-pwa": "^3.0.0",
+    "@docusaurus/preset-classic": "^3.0.0",
+    "@docusaurus/theme-live-codeblock": "^3.0.0",
+    "@docusaurus/theme-mermaid": "^3.0.0",
+    "@easyops-cn/docusaurus-search-local": "^0.36.0",
+    "@giscus/react": "^2.3.0",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.0.0",
+    "disqus-react": "^1.1.5",
+    "docusaurus-plugin-image-zoom": "^1.0.1",
+    "hast-util-is-element": "^1.1.0",
+    "he": "^1.2.0",
+    "party-js": "^2.2.0",
+    "prism-react-renderer": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rehype-katex": "^7.0.0",
+    "remark-math": "^6.0.0"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "3.0.0",
+    "@docusaurus/tsconfig": "3.0.0",
+    "@docusaurus/types": "3.0.0",
+    "@types/node": "^20.8.10",
+    "@types/react": "^18.2.29",
+    "@types/ttf2woff2": "^2.0.1",
+    "chokidar": "^3.5.3",
+    "depcheck": "^1.4.7",
+    "gray-matter": "^4.0.3",
+    "npm-check": "^6.0.1",
+    "postcss": "^8.4.31",
+    "postcss-loader": "^7.3.3",
+    "postcss-preset-env": "^9.3.0",
+    "ttf2woff2": "^5.0.0",
+    "typescript": "~5.2.2",
+    "video.js": "^8.6.1"
+  },
+  "browserslist": {
+    "production": [
+      ">=0%"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0"
+  }
+}

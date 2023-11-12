@@ -1,0 +1,59 @@
+{
+  "sidebar.tutorialSidebar.category.chinese": {
+    "message": "语文"
+  },
+  "sidebar.tutorialSidebar.category.math": {
+    "message": "数学"
+  },
+  "sidebar.tutorialSidebar.category.english": {
+    "message": "英语"
+  },
+  "sidebar.tutorialSidebar.category.history": {
+    "message": "历史"
+  },
+  "sidebar.tutorialSidebar.category.physics": {
+    "message": "物理"
+  },
+  "sidebar.tutorialSidebar.category.chemistry": {
+    "message": "化学"
+  },
+  "sidebar.tutorialSidebar.category.codeing": {
+    "message": "编程"
+  },
+  "sidebar.tutorialSidebar.category.crack": {
+    "message": "逆向"
+  },
+  "sidebar.tutorialSidebar.category.student-times": {
+    "message": "周报"
+  },
+  "sidebar.tutorialSidebar.category.html": {
+    "message": "HTML"
+  },
+  "sidebar.tutorialSidebar.category.css": {
+    "message": "CSS"
+  },
+  "sidebar.tutorialSidebar.category.javascript": {
+    "message": "JavaScript"
+  },
+  "sidebar.tutorialSidebar.category.dart": {
+    "message": "Dart"
+  },
+  "sidebar.tutorialSidebar.category.python": {
+    "message": "Python"
+  },
+  "sidebar.tutorialSidebar.category.technology": {
+    "message": "科技"
+  },
+  "sidebar.tutorialSidebar.category.nuxtjs": {
+    "message": "Nuxt.js"
+  },
+  "sidebar.tutorialSidebar.category.fit-english": {
+    "message": "沸腾英语"
+  },
+  "sidebar.tutorialSidebar.category.solidjs": {
+    "message": "Solid.js"
+  },
+  "sidebar.tutorialSidebar.category.politics": {
+    "message": "政治"
+  }
+}
