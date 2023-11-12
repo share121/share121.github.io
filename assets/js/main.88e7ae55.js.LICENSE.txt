@@ -79,6 +79,8 @@ prismjs/prism.js:
    *)
 */
 
+/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
+
 /*! medium-zoom 1.0.8 | MIT License | https://github.com/francoischalifour/medium-zoom */
 
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
