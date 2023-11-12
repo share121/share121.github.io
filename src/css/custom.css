@@ -200,6 +200,12 @@ main {
 .medium-zoom-image {
   border-radius: var(--ifm-global-radius);
 }
+.medium-zoom-overlay {
+  z-index: 999;
+}
+.medium-zoom-image--opened {
+  z-index: 1000;
+}
 
 .code-block-error-line {
   background-color: #ff000020;
