@@ -3,7 +3,6 @@
   src: local("Fira Code VF"), local("Fira Code"),
     url("/fonts/FiraCode-VF.woff2") format("woff2-variations");
   font-weight: 300 700;
-  font-style: normal;
 }
 
 @font-face {
@@ -11,7 +10,6 @@
   src: local("MiSans VF"), local("MiSans"),
     url("/fonts/MiSans-VF.woff2") format("woff2-variations");
   font-weight: 100 1000;
-  font-style: normal;
 }
 
 :root {
