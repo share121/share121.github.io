@@ -55,25 +55,18 @@
     --ifm-font-family-base: "Times New Roman", fangsong, serif;
     --ifm-font-family-monospace: "Fira Code VF", monospace, fangsong, serif;
   }
+  :root > * {
+    font-size: 1.333333rem;
+  }
   h1 {
     --ifm-heading-font-family: "Times New Roman", "宋体", serif;
     font-size: 1.833333rem;
-    font-weight: bold;
   }
   h2 {
     --ifm-heading-font-family: "Times New Roman", "黑体", sans-serif;
-    font-size: 1.333333rem;
-    font-weight: bold;
   }
   h3 {
     --ifm-heading-font-family: "Times New Roman", "楷体", serif;
-    font-size: 1.333333rem;
-    font-weight: bold;
-  }
-  h4,
-  h5,
-  h6 {
-    font-size: 1.25rem;
   }
   p::before {
     content: "　　";
