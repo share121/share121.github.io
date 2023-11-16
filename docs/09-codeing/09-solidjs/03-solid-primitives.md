@@ -13,10 +13,10 @@ last_update:
 
 在 Solid 中，基元是负责管理 Solid 应用程序中的反应性的构建块。以下是 Solid 基元的列表：
 
-- `createSignal`
-- `createEffect`
-- `createMemo`
-- `createResource`
+- [`createSignal`](#createsignal)
+- [`createEffect`](#createeffect)
+- [`createMemo`](#creatememo)
+- [`createResource`](#createresource)
 - `createRoot`
 - `createRenderEffect`
 - `createDeferred`
