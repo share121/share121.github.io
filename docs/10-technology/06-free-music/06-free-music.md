@@ -7,11 +7,11 @@
 #### 国内下载
 
 - Windows
-  - <a href="https://wwrb.lanzouw.com/i1M6p1f7xqgj" target="_self" title='{"lanzoui":"aa"}'>Windows x64</a>
-  - <a href="https://wwrb.lanzouw.com/iKKeS1f7xktg" target="_self" title='{"lanzoui":"aa"}'>Windows arm 64</a>
+  - <a href="https://wwrb.lanzouw.com/i1M6p1f7xqgj" target="_self" download="LX Music Windows x64.exe" title='{"lanzoui":"aa"}'>Windows x64</a>
+  - <a href="https://wwrb.lanzouw.com/iKKeS1f7xktg" target="_self" download="LX Music Windows arm 64.exe" title='{"lanzoui":"aa"}'>Windows arm 64</a>
 - Mac
-  - <a href="https://wwrb.lanzouw.com/iI0ob1f7xx5a" target="_self" title='{"lanzoui":"aa"}'>Mac x64</a>
-  - <a href="https://wwrb.lanzouw.com/idW471f7xhed" target="_self" title='{"lanzoui":"aa"}'>Mac arm 64</a>
+  - <a href="https://wwrb.lanzouw.com/iI0ob1f7xx5a" target="_self" download="LX Music Mac x64.dmg" title='{"lanzoui":"aa"}'>Mac x64</a>
+  - <a href="https://wwrb.lanzouw.com/idW471f7xhed" target="_self" download="LX Music Mac arm 64.dmg" title='{"lanzoui":"aa"}'>Mac arm 64</a>
 
 #### 国外下载
 
