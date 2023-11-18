@@ -13,6 +13,12 @@
   - <a href="https://wwrb.lanzouw.com/iI0ob1f7xx5a" target="_self" download="LX Music Mac x64.dmg" title='{"lanzoui":"aa"}'>Mac x64</a>
   - <a href="https://wwrb.lanzouw.com/idW471f7xhed" target="_self" download="LX Music Mac arm 64.dmg" title='{"lanzoui":"aa"}'>Mac arm 64</a>
 
+:::tip
+
+如果提示需要密码，请输入 `aa`
+
+:::
+
 #### 国外下载
 
 [GitHub](https://github.com/lyswhut/lx-music-desktop/releases)
