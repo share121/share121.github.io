@@ -1,0 +1,30 @@
+# 免费听音乐
+
+## 下载 [LX Music](https://lxmusic.toside.cn/)
+
+### 下载地址
+
+#### 国内下载
+
+- Windows
+  - <a href="https://wwrb.lanzouw.com/i1M6p1f7xqgj" target="_self" title='{"lanzoui":"aa"}'>Windows x64</a>
+  - <a href="https://wwrb.lanzouw.com/iKKeS1f7xktg" target="_self" title='{"lanzoui":"aa"}'>Windows arm 64</a>
+- Mac
+  - <a href="https://wwrb.lanzouw.com/iI0ob1f7xx5a" target="_self" title='{"lanzoui":"aa"}'>Mac x64</a>
+  - <a href="https://wwrb.lanzouw.com/idW471f7xhed" target="_self" title='{"lanzoui":"aa"}'>Mac arm 64</a>
+
+#### 国外下载
+
+[GitHub](https://github.com/lyswhut/lx-music-desktop/releases)
+
+## 配置 [LX Music](https://lxmusic.toside.cn/)
+
+### 下载配置文件
+
+[点击下载](lx_setting_v2.lxmc '{"download":"lx_setting_v2.lxmc","target":"_self"}')
+
+### 导入配置文件
+
+1. 设置 > 备份与恢复 > 导入设置
+   ![如何导入配置文件](如何导入配置文件.png)
+2. 选择你刚刚下载的配置文件

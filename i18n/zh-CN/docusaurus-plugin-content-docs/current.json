@@ -55,5 +55,8 @@
   },
   "sidebar.tutorialSidebar.category.politics": {
     "message": "政治"
+  },
+  "sidebar.tutorialSidebar.category.cpp": {
+    "message": "C++"
   }
 }

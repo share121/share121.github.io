@@ -57,6 +57,8 @@
     "postcss-loader": "^7.3.3",
     "postcss-preset-env": "^9.3.0",
     "ttf2woff2": "^5.0.0",
+    "turndown": "^7.1.2",
+    "turndown-plugin-gfm": "^1.0.2",
     "typescript": "~5.2.2",
     "video.js": "^8.6.1"
   },
