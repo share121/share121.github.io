@@ -157,10 +157,11 @@ const config: Config = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
       additionalLanguages: [
+        "rust",
+        "cpp",
         "dart",
-        "batch",
-        "powershell",
         "python",
+        "css",
         "javascript",
         "typescript",
         "bash",
