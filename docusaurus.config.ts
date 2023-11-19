@@ -252,6 +252,11 @@ const config: Config = {
             name: "msapplication-TileColor",
             content: "#fff",
           },
+          {
+            tagName: "meta",
+            name: "sogou_site_verification",
+            content: "mefrVlOJA6",
+          },
         ],
       },
     ],
