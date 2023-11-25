@@ -49,6 +49,8 @@
     "@types/node": "^20.8.10",
     "@types/react": "^18.2.29",
     "@types/ttf2woff2": "^2.0.1",
+    "@types/turndown": "^5.0.4",
+    "cheerio": "^1.0.0-rc.12",
     "chokidar": "^3.5.3",
     "depcheck": "^1.4.7",
     "gray-matter": "^4.0.3",

@@ -58,5 +58,8 @@
   },
   "sidebar.tutorialSidebar.category.cpp": {
     "message": "C++"
+  },
+  "sidebar.tutorialSidebar.category.utools": {
+    "message": "uTools"
   }
 }
