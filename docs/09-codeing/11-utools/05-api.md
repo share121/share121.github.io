@@ -549,7 +549,7 @@ utools.onPluginEnter(({ code, type, payload }) => {
 
 ## 动态增减功能
 
-很多时候，插件应用中会提供一些功能供用户进行个性化设置（例如：`网页快开`插件应用），这部分配置无法在 `plugin.json` 事先定义好，所以我们提供了以下方法对插件应用功能进行动态增减。
+很多时候，插件应用中会提供一些功能供用户进行个性化设置（例如：**网页快开** 插件应用），这部分配置无法在 `plugin.json` 事先定义好，所以我们提供了以下方法对插件应用功能进行动态增减。
 
 ### `getFeatures(codes)`
 
@@ -688,7 +688,7 @@ utools.openPurchase({ goodsId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" }, () => {
 
   - `goodsId` String
 
-    > 商品 ID，在 “ uTools 开发者工具” 插件应用中创建
+    > 商品 ID，在 “uTools 开发者工具” 插件应用中创建
 
   - `outOrderId` String (可选)
 
@@ -702,7 +702,7 @@ utools.openPurchase({ goodsId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" }, () => {
 
   > 支付成功后回调
 
-> 打开支付 (服务付费模式)
+> 打开支付（服务付费模式）
 
 ```js
 utools.openPayment({ goodsId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" }, () => {
@@ -798,7 +798,7 @@ utools.hideMainWindowPasteText("Hi, uTools");
 
 - `返回` Boolean
 
-> 输入字符串(输入法原理)
+> 输入字符串（输入法原理）
 
 #### 示例
 
