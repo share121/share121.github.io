@@ -1,3 +1,8 @@
+---
+last_update:
+  date: 1700915817725
+---
+
 # uTools API
 
 在插件应用初始化完成时，uTools 会自动在你的 window 对象上挂载 utools 对象。

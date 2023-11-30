@@ -1,3 +1,8 @@
+---
+last_update:
+  date: 1700895493331
+---
+
 # ubrowser API
 
 uTools browser 简称 ubrowser，是根据 uTools 的特性，量身打造的一个可编程浏览器。利用 ubrowser 可以轻而易举连接一切互联网服务，且与 uTools 完美结合。

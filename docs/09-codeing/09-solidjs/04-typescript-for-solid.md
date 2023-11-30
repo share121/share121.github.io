@@ -1,3 +1,8 @@
+---
+last_update:
+  date: 1700659769806
+---
+
 # Solid 的 TypeScript 指南
 
 在本节中，我们将研究 Typescript 以及如何使用它来构建 Solid。对于不熟悉 Typescript 的 Javascript 开发人员来说，这部分可能看起来有点陌生，因此我们将尽最大努力将其分解。

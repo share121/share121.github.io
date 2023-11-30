@@ -1,3 +1,8 @@
+---
+last_update:
+  date: 1700887880054
+---
+
 # preload.js
 
 当你在 `plugin.json` 中配置了 `preload` 属性，将载入对应的预加载脚本。
