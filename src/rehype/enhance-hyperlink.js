@@ -1,6 +1,6 @@
-const visit = require("unist-util-visit");
+import { visit } from "unist-util-visit";
 
-const plugin = () => {
+export default () => {
   const transformer = async (ast) => {
     visit(ast, "element", (node) => {
       if (node.tagName === "a" && (node.properties?.title ?? "").length > 0) {
@@ -18,5 +18,3 @@ const plugin = () => {
   };
   return transformer;
 };
-
-module.exports = plugin;
