@@ -2,10 +2,11 @@
 image: node:lts
 # Functions that should be executed before the build script is run
 before_script:
-  - npm ci --legacy-peer-deps
+  - npm i pnpm -g
+  - pnpm i
 pages:
   script:
-    - npm run build -- --out-dir public
+    - pnpm build -- --out-dir public
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
