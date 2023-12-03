@@ -1,6 +1,6 @@
 ---
 last_update:
-  date: 1699797429500
+  date: 1701566269184
 ---
 
 # MiSans 字体下载
@@ -13,5 +13,5 @@ GB18030-2022 强制规范三个实现级别，于 2023 年 8 月 1 日起开始�
 
 - <a href="https://wwrb.lanzouw.com/iUjAz1gmzumh" target="_self" download="MiSans-woff2.exe" title='{"lanzoui":"fw49"}'>下载 MiSans woff2</a>
 - <a href="https://wwrb.lanzouw.com/iw4xi1gmzq8j" target="_self" download="MiSans-woff.exe" title='{"lanzoui":"3beh"}'>下载 MiSans woff</a>
-- <a href="https://wwrb.lanzouw.com/iiKOS1gmzllc" target="_self" download="MiSans-ttf.exe" title='{"lanzoui":"7cqk"}'>下载 MiSans ttf</a>
+- <a href="https://wwrb.lanzouw.com/iiKOS1gmzllc" target="_self" download="MiSans-ttf.exe" title='{"lanzoui":"7cqk"}'>下载 MiSans ttf（包含可变字体）</a>
 - <a href="https://wwrb.lanzouw.com/ixlAD1gmzg4f" target="_self" download="MiSans-otf.exe" title='{"lanzoui":"9kxf"}'>下载 MiSans otf</a>
