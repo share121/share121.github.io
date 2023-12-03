@@ -6,7 +6,7 @@ before_script:
   - pnpm i
 pages:
   script:
-    - pnpm build -- --out-dir public
+    - pnpm build --out-dir public
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
