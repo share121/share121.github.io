@@ -2,7 +2,6 @@ import { fileURLToPath } from "url";
 import { promises as fss } from "fs";
 import path from "path";
 import matter from "gray-matter";
-import chokidar from "chokidar";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
