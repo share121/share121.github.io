@@ -4,7 +4,12 @@
 }
 @font-face {
   font-family: "MiSans-VF";
-  src: url("/fonts/MiSans-VF.ttf");
+  src: url("/fonts/MiSans-VF.woff2");
+}
+
+svg,
+svg * {
+  font-family: MiSans-VF, sans-serif;
 }
 
 :root {
