@@ -3,10 +3,26 @@ import turndownPluginGfm from "turndown-plugin-gfm";
 import * as cheerio from "cheerio";
 import fs from "fs";
 
-const $ = cheerio.load(fs.readFileSync(process.argv[2]), null, false);
+const sourceURL = new URL(process.argv[3]);
+
+const $ = cheerio.load(
+  fs.readFileSync(process.argv[2]),
+  { baseURI: sourceURL },
+  false
+);
 
 $("a[href]").each(function () {
-  if ($(this).text().trim() === "#") $(this).replaceWith("");
+  let a = new URL($(this).prop("href"));
+  if (
+    a.origin === sourceURL.origin &&
+    a.pathname === sourceURL.pathname &&
+    a.search === sourceURL.search &&
+    a.username === sourceURL.username &&
+    a.password === sourceURL.password &&
+    ["", "#"].includes($(this).text().trim())
+  ) {
+    $(this).replaceWith("");
+  }
 });
 
 {

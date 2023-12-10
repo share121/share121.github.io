@@ -23,18 +23,33 @@ async function* getAllFiles(...paths) {
   }
 }
 
-let sum = 0;
+/**
+ * 分词
+ * @param {string} str
+ * @returns {{segment: string; index: number; input: string}[]}
+ */
+function splitWord(str) {
+  let segmenter = new Intl.Segmenter(undefined, { granularity: "grapheme" });
+  return [...segmenter.segment(str)];
+}
+
+let sum_letter = 0,
+  sum_char = 0,
+  sum_file = 0;
 for await (const file of getAllFiles(
   path.join(__dirname, "docs"),
   path.join(__dirname, "blog")
 )) {
   if ([".md", ".mdx"].includes(path.extname(file))) {
-    const content =
-      matter(await fss.readFile(file, "utf-8"))
-        .content.match(/(\p{L}+)/gu)
-        ?.join("") ?? "";
-    sum += content.length;
-    console.log(path.basename(file), content.length, "字");
+    const content = matter(await fss.readFile(file, "utf-8")).content;
+    const letter_count = splitWord(
+      content.match(/(\p{L}+)/gu)?.join("") ?? ""
+    ).length;
+    const char_count = splitWord(content).length;
+    sum_letter += letter_count;
+    sum_char += char_count;
+    sum_file++;
+    console.log(path.basename(file), char_count, letter_count, "字");
   }
 }
-console.log("总计", sum, "字");
+console.log("总计", sum_char, sum_letter, "字", "共", sum_file, "个文件");

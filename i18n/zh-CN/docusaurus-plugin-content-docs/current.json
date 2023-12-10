@@ -61,5 +61,8 @@
   },
   "sidebar.tutorialSidebar.category.utools": {
     "message": "uTools"
+  },
+  "sidebar.tutorialSidebar.category.dart-tutorials": {
+    "message": "Dart 教程"
   }
 }

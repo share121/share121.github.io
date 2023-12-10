@@ -5,7 +5,7 @@ import math from "remark-math";
 import katex from "rehype-katex";
 import { themes } from "prism-react-renderer";
 
-const lightCodeTheme = themes.github;
+const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.vsDark;
 
 const config: Config = {
