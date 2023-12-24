@@ -6,7 +6,7 @@ import Player from "video.js/dist/types/player";
 export default function MyApp({ children }) {
   let player: Player | null = null;
   return (
-    <div
+    <p
       data-vjs-player
       style={{
         overflow: "hidden",
@@ -16,16 +16,40 @@ export default function MyApp({ children }) {
       <video
         className="video-js vjs-fluid"
         onKeyDown={(e) => {
-          if ((e.code === "Space", player !== null)) {
-            e.preventDefault();
-          }
-        }}
-        onKeyUp={(e) => {
-          if ((e.code === "Space", player !== null)) {
-            if (player.paused()) {
-              player.play();
-            } else {
-              player.pause();
+          if (player !== null) {
+            switch (e.code) {
+              case "Space":
+                e.preventDefault();
+                if (player.paused()) {
+                  player.play();
+                } else {
+                  player.pause();
+                }
+                break;
+              case "ArrowLeft":
+                e.preventDefault();
+                player.currentTime(player.currentTime() - 1);
+                break;
+              case "ArrowRight":
+                e.preventDefault();
+                player.currentTime(player.currentTime() + 1);
+                break;
+              case "ArrowUp":
+                e.preventDefault();
+                player.volume(player.volume() + 0.1);
+                break;
+              case "ArrowDown":
+                e.preventDefault();
+                player.volume(player.volume() - 0.1);
+                break;
+              case "Enter":
+                e.preventDefault();
+                if (player.isFullscreen()) {
+                  player.exitFullscreen();
+                } else {
+                  player.requestFullscreen();
+                }
+                break;
             }
           }
         }}
@@ -41,8 +65,8 @@ export default function MyApp({ children }) {
                 "zh-CN": zhCN,
               },
               playbackRates: [
-                0.1, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 6, 7, 8, 9, 10, 11, 12,
-                13, 14, 15, 16,
+                0.1, 0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.25, 2.5, 2.75, 3,
+                3.25, 3.5, 3.75, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16,
               ],
             });
           }
@@ -51,6 +75,6 @@ export default function MyApp({ children }) {
       >
         {children}
       </video>
-    </div>
+    </p>
   );
 }

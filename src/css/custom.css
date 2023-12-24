@@ -136,51 +136,53 @@ mark:hover {
   text-decoration: none;
 }
 
-main {
-  counter-reset: h2;
-}
-.markdown h2 {
-  counter-reset: h3;
-  counter-increment: h2;
-}
-.markdown h3 {
-  counter-reset: h4;
-  counter-increment: h3;
-}
-.markdown h4 {
-  counter-reset: h5;
-  counter-increment: h4;
-}
-.markdown h5 {
-  counter-reset: h6;
-  counter-increment: h5;
-}
-.markdown h6 {
-  counter-increment: h6;
-}
-.markdown h2::before {
-  content: counter(h2, cjk-decimal) "、";
-}
-.markdown h3::before {
-  content: "（" counter(h3, cjk-decimal) "）";
-}
-.markdown h4::before {
-  content: counter(h4) ".";
-}
-.markdown h5::before {
-  content: "（" counter(h5) "）";
-}
-.markdown h6::before {
-  content: counter(h6);
-  display: inline-block;
-  padding: 0.1em;
-  margin-right: 0.5em;
-  width: 1em;
-  height: 1em;
-  border: 1px solid;
-  border-radius: 50%;
-  line-height: 1em;
-  text-align: center;
+@media print {
+  main {
+    counter-reset: h2;
+  }
+  .markdown h2 {
+    counter-reset: h3;
+    counter-increment: h2;
+  }
+  .markdown h3 {
+    counter-reset: h4;
+    counter-increment: h3;
+  }
+  .markdown h4 {
+    counter-reset: h5;
+    counter-increment: h4;
+  }
+  .markdown h5 {
+    counter-reset: h6;
+    counter-increment: h5;
+  }
+  .markdown h6 {
+    counter-increment: h6;
+  }
+  .markdown h2::before {
+    content: counter(h2, cjk-decimal) "、";
+  }
+  .markdown h3::before {
+    content: "（" counter(h3, cjk-decimal) "）";
+  }
+  .markdown h4::before {
+    content: counter(h4) ".";
+  }
+  .markdown h5::before {
+    content: "（" counter(h5) "）";
+  }
+  .markdown h6::before {
+    content: counter(h6);
+    display: inline-block;
+    padding: 0.1em;
+    margin-right: 0.5em;
+    width: 1em;
+    height: 1em;
+    border: 1px solid;
+    border-radius: 50%;
+    line-height: 1em;
+    text-align: center;
+  }
 }
 
 .markdown img {
