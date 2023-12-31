@@ -4,18 +4,14 @@ authors: share121
 
 import GenshenTgaSrc from "./原神 TGA 2022.mp4";
 import StarRailTgaSrc from "./崩铁 TGA.mp4";
+import Video from "@site/src/components/VideoJS";
 
 export const GenshenTgaVideo = () => {
   return (
     <p>
-      <video
-        width="100%"
-        style={{ borderRadius: "var(--ifm-global-radius)" }}
-        src={GenshenTgaSrc}
-        controls
-      >
-        你的浏览器不支持播放视频
-      </video>
+      <Video>
+        <source src={GenshenTgaSrc} />
+      </Video>
     </p>
   );
 };
@@ -23,14 +19,9 @@ export const GenshenTgaVideo = () => {
 export const StarRailTgaVideo = () => {
   return (
     <p>
-      <video
-        width="100%"
-        style={{ borderRadius: "var(--ifm-global-radius)" }}
-        src={StarRailTgaSrc}
-        controls
-      >
-        你的浏览器不支持播放视频
-      </video>
+      <Video>
+        <source src={StarRailTgaSrc} />
+      </Video>
     </p>
   );
 };
