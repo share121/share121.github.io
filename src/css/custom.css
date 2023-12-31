@@ -205,3 +205,7 @@ mark:hover {
   padding: 0 var(--ifm-pre-padding);
   border-left: 3px solid #ff000080;
 }
+
+.vjs-big-play-button {
+  display: none !important;
+}

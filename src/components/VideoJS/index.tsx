@@ -5,12 +5,14 @@ import Player from "video.js/dist/types/player";
 
 export default function MyApp({ children }) {
   let player: Player | null = null;
+
   return (
-    <p
+    <div
       data-vjs-player
       style={{
         overflow: "hidden",
         borderRadius: "var(--ifm-global-radius)",
+        margin: "0 0 var(--ifm-paragraph-margin-bottom)",
       }}
     >
       <video
@@ -58,7 +60,6 @@ export default function MyApp({ children }) {
             ref.dataset.init = "true";
             player = videojs(ref, {
               controls: true,
-              autoplay: false,
               preload: "auto",
               language: "zh-CN",
               languages: {
@@ -75,6 +76,6 @@ export default function MyApp({ children }) {
       >
         {children}
       </video>
-    </p>
+    </div>
   );
 }

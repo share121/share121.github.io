@@ -2,27 +2,21 @@
 authors: share121
 ---
 
-import GenshenTgaSrc from "./原神 TGA 2022.mp4";
-import StarRailTgaSrc from "./崩铁 TGA.mp4";
 import Video from "@site/src/components/VideoJS";
 
 export const GenshenTgaVideo = () => {
   return (
-    <p>
-      <Video>
-        <source src={GenshenTgaSrc} />
-      </Video>
-    </p>
+    <Video>
+      <source src="/原神 TGA 2022/index.m3u8" />
+    </Video>
   );
 };
 
 export const StarRailTgaVideo = () => {
   return (
-    <p>
-      <Video>
-        <source src={StarRailTgaSrc} />
-      </Video>
-    </p>
+    <Video>
+      <source src="/崩铁 TGA/index.m3u8" />
+    </Video>
   );
 };
 
