@@ -1,3 +1,8 @@
+---
+last_update:
+  date: 1708178661178
+---
+
 # 更新 Chrome 扩展
 
 ```js title="1-获得扩展数据"
