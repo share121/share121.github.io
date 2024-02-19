@@ -306,4 +306,4 @@ zh-:你好，世界！
 
 ---
 
-[在 Any Doc 上查看此文档](https://share121.gitee.io/technology/baidu-fanyi)
+[在 Any Doc 上查看此文档](https://share121.gitee.io/technology/share-fanyi)
